@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Node.js CLI Projects Collection
 
